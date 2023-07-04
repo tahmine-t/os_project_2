@@ -1,0 +1,163 @@
+# SJF
+
+#### current time = 0 ####
+running process = Task3
+wating queue = []
+ready queue = ['Task1', 'Task2', 'Task4', 'Task5', 'Task6']
+available R1 = 19
+available R2 = 19
+available R3 = 20
+
+
+#### current time = 1 ####
+running process = Task3
+wating queue = []
+ready queue = ['Task1', 'Task2', 'Task4', 'Task5', 'Task6']
+available R1 = 19
+available R2 = 19
+available R3 = 20
+
+
+#### current time = 2 ####
+running process = Task4
+wating queue = []
+ready queue = ['Task1', 'Task2', 'Task5', 'Task6']
+available R1 = 19
+available R2 = 19
+available R3 = 20
+
+
+#### current time = 3 ####
+running process = Task4
+wating queue = []
+ready queue = ['Task1', 'Task2', 'Task5', 'Task6']
+available R1 = 19
+available R2 = 19
+available R3 = 20
+
+
+#### current time = 4 ####
+running process = Task1
+wating queue = []
+ready queue = ['Task2', 'Task5', 'Task6']
+available R1 = 19
+available R2 = 19
+available R3 = 20
+
+
+#### current time = 5 ####
+running process = Task1
+wating queue = []
+ready queue = ['Task2', 'Task5', 'Task6']
+available R1 = 19
+available R2 = 19
+available R3 = 20
+
+
+#### current time = 6 ####
+running process = Task1
+wating queue = []
+ready queue = ['Task2', 'Task5', 'Task6']
+available R1 = 19
+available R2 = 19
+available R3 = 20
+
+
+#### current time = 7 ####
+running process = Task5
+wating queue = []
+ready queue = ['Task2', 'Task6']
+available R1 = 20
+available R2 = 19
+available R3 = 19
+
+
+#### current time = 8 ####
+running process = Task5
+wating queue = []
+ready queue = ['Task2', 'Task6']
+available R1 = 20
+available R2 = 19
+available R3 = 19
+
+
+#### current time = 9 ####
+running process = Task5
+wating queue = []
+ready queue = ['Task2', 'Task6']
+available R1 = 20
+available R2 = 19
+available R3 = 19
+
+
+#### current time = 10 ####
+running process = Task2
+wating queue = []
+ready queue = ['Task6']
+available R1 = 20
+available R2 = 19
+available R3 = 19
+
+
+#### current time = 11 ####
+running process = Task2
+wating queue = []
+ready queue = ['Task6']
+available R1 = 20
+available R2 = 19
+available R3 = 19
+
+
+#### current time = 12 ####
+running process = Task2
+wating queue = []
+ready queue = ['Task6']
+available R1 = 20
+available R2 = 19
+available R3 = 19
+
+
+#### current time = 13 ####
+running process = Task2
+wating queue = []
+ready queue = ['Task6']
+available R1 = 20
+available R2 = 19
+available R3 = 19
+
+
+#### current time = 14 ####
+running process = Task6
+wating queue = []
+ready queue = []
+available R1 = 19
+available R2 = 20
+available R3 = 19
+
+
+#### current time = 15 ####
+running process = Task6
+wating queue = []
+ready queue = []
+available R1 = 19
+available R2 = 20
+available R3 = 19
+
+
+#### current time = 16 ####
+running process = Task6
+wating queue = []
+ready queue = []
+available R1 = 19
+available R2 = 20
+available R3 = 19
+
+
+#### current time = 17 ####
+running process = Task6
+wating queue = []
+ready queue = []
+available R1 = 19
+available R2 = 20
+available R3 = 19
+

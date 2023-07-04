@@ -1,0 +1,8 @@
+20 20 20
+6
+Task1 X 3
+Task2 Y 4
+Task3 X 2
+Task4 X 2
+Task5 Y 3
+Task6 Z 4
